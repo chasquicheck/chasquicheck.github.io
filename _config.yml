@@ -1,2 +1,3 @@
 name: ChasquiCheck
 markdown: ssp_mind
+permalink: /blog/:year/:month/:day/:title
